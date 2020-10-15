@@ -1,4 +1,4 @@
-package com.fattahi.cloud.zuul;
+package com.mft.cloud.zuul;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
